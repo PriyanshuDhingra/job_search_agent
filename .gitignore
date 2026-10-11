@@ -1,0 +1,8 @@
+# Virtual envs / uv
+.venv/
+.python-version
+
+# Env & secrets
+.env
+!.env.example
+!.env.test
